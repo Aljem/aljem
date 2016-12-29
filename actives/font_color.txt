@@ -1,3 +1,0 @@
-#DD4A4A
-<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet"> 
-font-family: 'Dancing Script', cursive;
